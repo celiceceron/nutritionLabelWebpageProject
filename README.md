@@ -5,7 +5,7 @@
 This project was developed for the practice of HTML Fundamentals and Responsive Web Design. <br>
 https://codepen.io/celiceceron/full/MWBmOov
 
-## Web Page
+## Web page
 ![Web 1](https://github.com/celiceceron/nutritionLabelWebpageProject/blob/2af33c707ce6083f4f9acea146db15bce7c2f761/web%20page.png)
 
 # Used languages
