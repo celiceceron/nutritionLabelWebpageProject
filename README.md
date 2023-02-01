@@ -1,5 +1,5 @@
 # nutritionLabelWebpageProject
-[![NPM](https://github.com/celiceceron/nutritionLabelWebpageProject/blob/master/licence) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/celiceceron/nutritionLabelWebpageProject/blob/master/licence) 
 
 # About the project
 This project was developed for the practice of HTML Fundamentals. <br>
